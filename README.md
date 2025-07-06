@@ -13,5 +13,3 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 #open this deploy using 
-
-https://piyush-gemini-clone.netlify.app/
