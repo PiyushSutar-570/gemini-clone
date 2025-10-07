@@ -7,10 +7,34 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+Gemini Clone 🤖
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A Gemini AI clone built using React + Vite, inspired by the official Google Gemini interface. This project allows users to interact with AI in real-time, featuring a clean and responsive UI, smooth animations, and Gemini API integration.
 
+🚀 Features
+
+💬 Real-time AI chat with Gemini API
+
+🧠 Smart responses and conversation memory
+
+🎨 Sleek and modern UI inspired by Google Gemini
+
+⚡ Built with React + Vite for fast performance
+
+🌙 Responsive and minimal design
+
+🛠️ Tech Stack
+
+Frontend: React, Vite, CSS
+
+API: Google Gemini API
+
+Deployment: Vercel / Netlify
+
+📚 Credits
+
+This project was built by following a tutorial from Code With Sadee
+ and customized by Piyush Sutar.
 
 #open this link to see my project
 my-gemini-clone899.netlify.app
