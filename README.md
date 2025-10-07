@@ -37,4 +37,4 @@ This project was built by following a tutorial from Code With Sadee
  and customized by Piyush Sutar.
 
 #open this link to see my project
-my-gemini-clone899.netlify.app
+https://my-gemini-clone899.netlify.app/
